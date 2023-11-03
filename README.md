@@ -10,7 +10,9 @@ To uncover more information about the sales patterns.
 Open-source sets from Instacart
 
 Data Citation: Customer data, as well as the "prices" data, were both fabricated for the purpose of this project.														
-“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on May 21 2023													
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from Kaggle 
+https//www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
+													
 ## Tools
 
 Jupyter Notebook
